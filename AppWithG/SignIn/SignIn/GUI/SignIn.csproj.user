@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddRecomAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminMenu2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminRemove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADorderToFulfill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdvanceOrderCust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BillCustom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="changePassCust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="completeOrderAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConfirmCustomOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="custAddCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="custbillNor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="custCartDel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerMenu2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="custViewCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustViewMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DiscountAdding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="discRemove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="discShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forgotPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="nrmlStkUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="placeOrderN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrcUpRmvDisc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="rattingCust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="recomCust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Save.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SeeRattingAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="signIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="signUP2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="thStkUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="toBuyItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tofulfill2CheckBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="toFulfillOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdatePrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

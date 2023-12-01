@@ -1,0 +1,4 @@
+icecream,strawberry,4
+cake,chocolate cake,4
+drink,coca cola,5
+drink,pepsi,5

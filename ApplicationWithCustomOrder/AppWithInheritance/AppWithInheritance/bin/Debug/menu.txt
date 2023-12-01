@@ -1,0 +1,12 @@
+drink
+pepsi,200,20,11
+coca cola,225,30,40
+
+icecream
+strawberry,300,14,10
+chocolate,200,50,20
+
+cake
+vanilla cake,2000,15,20
+chocolate cake,1600,19,5
+

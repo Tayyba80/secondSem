@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZIH9C2YRhKkMVXGQZzAJUd6wNBu5sVG03knrkrlLHT73Y2O/vs1R/8evpfIuTkq/iqsGDO4fjqqTnGULHT8Uug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Afraz\\Desktop\\secondsemester\\SignIn\\SignIn\\SignIn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Afraz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Afraz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Afraz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Afraz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

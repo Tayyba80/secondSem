@@ -1,0 +1,6 @@
+ghar,12345678,1
+umrah,1234aaaa,2
+venom,123456vv,2
+tayyba,12345678,2
+fatima,12345fff,1
+bar@123A,1234567A,2

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "hf0LffrJRJCUd7aHZVsXUi7pQOSWEeuogdoBhukvzpc0ntT4ib6x9vVZBvoe6XLFt72VS7pcXXI96FbOvSstpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Afraz\\Desktop\\secondsemester\\AppWithG\\SignIn\\SignIn\\SignIn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Afraz\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\Afraz\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\Afraz\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\Afraz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Afraz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Afraz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Afraz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

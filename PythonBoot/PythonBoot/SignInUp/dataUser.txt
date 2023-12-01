@@ -1,0 +1,2 @@
+Afraz,123,"ADMIN"
+tayyba,123,"CUSTOMER"

@@ -1,0 +1,2 @@
+ venom;drink;coca cola;225;5;17/05/2023 01:56:00 AM
+venom;icecream;strawberry;300;3;23/12/2023 11:56:00 AM

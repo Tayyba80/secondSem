@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PBDR73yaG6IRP+GZrBvYEws07GmmXg4774ZDsZNOU/TKa3sJiyaR9qxJILKm/DqcqMUDWTkJ8knMuKSfDa4JTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Afraz\\Desktop\\secondsemester\\MyPackman\\MyPackman\\MyPackman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Afraz\\.nuget\\packages\\ezinput\\1.3.2\\ezinput.1.3.2.nupkg.sha512",
+    "C:\\Users\\Afraz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Afraz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Afraz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Afraz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
